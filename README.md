@@ -23,5 +23,6 @@
 
 📸 [Instagram](https://instagram.com/vini9.9) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-pessoa/) <br>
+[![Gmail Badge](https://img.shields.io/badge/-vini.pessoa99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vini.pessoa99@gmail.com)](mailto:vini.pessoa99@gmail.com)
 
 
