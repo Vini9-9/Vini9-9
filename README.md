@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hey, I'm Vinicius Pessoa! 👋
 
-<!--
-**Vini9-9/Vini9-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🍿 Content Creator at Youtube > [Vini Programando](https://www.youtube.com/channel/UCjxUQX0iuQiw_3M-YHlkZWQ) <br>
+#### "Teaching programming for your everyday life"
+🇧🇷 Born in São Bernardo do Campo, Brazil <br>
 
-Here are some ideas to get you started:
+### What what moves me? 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Science, technology, Sports, Travel
+
+⚡ Show for people how programming is so important in our lives. 
+
+🏋 if you weren't born to be something, if you work hard, you can become. 🎖
+
+## About me...
+
+- 🌱 Improving my habilities in back-end specially in Java.
+- ⚡ technologies:  HTML, Spring Framework, JPA, Hibernate, Java, Python, VBA, MySQL, JS. 
+- 📚 Bachelor in Science and Technology ( Computer Science ) - UFABC, 06/2018 - 06/2023.
+
+
+### Find me elsewhere 🌎
+
+📸 [Instagram](https://instagram.com/vini9.9) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/vinicius-pessoa/) <br>
+
+
