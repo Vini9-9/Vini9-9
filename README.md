@@ -2,15 +2,15 @@
 
 I'm always open to solve a new challenge.
 
-🍿 Content Creator at Youtube > [Vini Programando](https://www.youtube.com/channel/UCjxUQX0iuQiw_3M-YHlkZWQ) <br>
-#### "Teaching programming for your everyday life"
+🍿 Content Creator at Youtube <b> [Vini Programando](https://www.youtube.com/channel/UCjxUQX0iuQiw_3M-YHlkZWQ) <br>
+###### "Teaching programming for your everyday life"
 🇧🇷 Born in São Bernardo do Campo, Brazil <br>
 
-### I'm working on ...
+## I'm working on ...
 
 Helping people to automatizate every "repetitive work".
 
-### What what moves me? 👨‍💻
+## What what moves me? 👨‍💻
 
 📚 Science, technology, Sports, Travel
 
@@ -25,7 +25,7 @@ Helping people to automatizate every "repetitive work".
 - 📚 Bachelor in Science and Technology ( Computer Science ) - UFABC, 06/2018 - 06/2023.
 
 
-### Find me elsewhere 🌎
+## Find me elsewhere 🌎
 
 📸 [Instagram](https://instagram.com/vini9.9) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-pessoa/) <br>
