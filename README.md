@@ -10,9 +10,9 @@ I'm always open to solve a new challenge.
 
 Helping people to automatizate every "repetitive work".
 
-## What what moves me? 👨‍💻
+## What moves me? 👨‍💻
 
-📚 Science, technology, Sports, Travel
+📚 Science, Technology, Sports, Travel
 
 ⚡ Show for people how programming is so important in our lives. 
 
