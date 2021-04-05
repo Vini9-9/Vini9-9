@@ -22,7 +22,7 @@ Helping people to automatizate every "repetitive work".
 
 - 🌱 Improving my habilities in back-end specially in Java.
 - ⚡ technologies:  HTML, Spring Framework, JPA, Hibernate, Java, Python, VBA, MySQL, JS. 
-- 📚 Bachelor in Science and Technology ( Computer Science ) - UFABC, 06/2018 - 06/2023.
+- 📚 Bachelor in Science & Technology and Computer Science - UFABC, 06/2018 - 06/2023.
 
 
 ## Find me elsewhere 🌎
