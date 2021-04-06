@@ -27,8 +27,10 @@ Helping people to automatizate every "repetitive work".
 
 ## Find me elsewhere 🌎
 
-📸 [Instagram](https://instagram.com/vini9.9) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/vinicius-pessoa/) <br>
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCjxUQX0iuQiw_3M-YHlkZWQ/videos)](https://www.youtube.com/channel/UCjxUQX0iuQiw_3M-YHlkZWQ/videos) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-pessoa/)](https://www.linkedin.com/in/vinicius-pessoa/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/vini9.9) <br>
 [![Gmail Badge](https://img.shields.io/badge/-vini.pessoa99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vini.pessoa99@gmail.com)](mailto:vini.pessoa99@gmail.com)
 
 
