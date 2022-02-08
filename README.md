@@ -14,7 +14,7 @@ Making ideas come true by programming.
 
 ## What moves me? 🏃‍♂️
 
-📚 Technology, Science , Sports, Travel
+📚 Technology, science , learning and helping others.
 
 ## About me...
  
