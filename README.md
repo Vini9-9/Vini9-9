@@ -52,7 +52,9 @@ Making ideas come true by programming.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini9-9&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
+## Download my CV
+* [PT-BR](https://github.com/Vini9-9/Vini9-9/blob/main/Vinicius%20Pessoa%20da%20Silva_062022.pdf)
+   
 ## Find me elsewhere 🌎
 
 
