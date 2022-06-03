@@ -19,7 +19,8 @@ Making ideas come true by programming.
 ## About me...
  
 - 📚 Bachelor in Science & Technology and Computer Science - UFABC, 06/2018 - 06/2023.
-- ⚡ Technologies:  
+ 
+### ⚡ Technologies:  
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -44,6 +45,14 @@ Making ideas come true by programming.
   <img align="center" alt="Vini-redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
   Python, MySQL, Postgress and Redis.
 </div>
+ 
+ <div style="display: inline_block"><br>
+  Selenium, Junit, Jest and Mockito.
+  <img align="center" alt="Vini-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />      
+  <img align="center" alt="Vini-Junit" height="30" width="30" src="https://camo.githubusercontent.com/abbaedce4b226ea68b0fd43521472b0b146d5ed57956116f69752f43e7ddd7d8/68747470733a2f2f6a756e69742e6f72672f6a756e6974352f6173736574732f696d672f6a756e6974352d6c6f676f2e706e67" />
+  <img align="center" alt="Vini-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="Vini-Mockito" height="30" width="60" src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png" />
+</div>
   
 ##
   <div>
@@ -52,7 +61,7 @@ Making ideas come true by programming.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini9-9&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Download my CV
+## Look my CV
 * [PT-BR](https://github.com/Vini9-9/Vini9-9/blob/main/Vinicius%20Pessoa%20da%20Silva_062022.pdf)
    
 ## Find me elsewhere 🌎
