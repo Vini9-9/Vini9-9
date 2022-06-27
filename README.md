@@ -62,6 +62,7 @@ Making ideas come true by programming.
 </div>
 
 ## Look my CV
+* [EN](https://github.com/Vini9-9/Vini9-9/blob/main/EN-Vinicius%20Pessoa%20da%20Silva_062022.pdf)
 * [PT-BR](https://github.com/Vini9-9/Vini9-9/blob/main/Vinicius%20Pessoa%20da%20Silva_062022.pdf)
    
 ## Find me elsewhere 🌎
