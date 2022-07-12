@@ -56,6 +56,11 @@ Making ideas come true by programming.
   <img align="center" alt="Vini-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="Vini-Mockito" height="30" width="60" src="https://raw.githubusercontent.com/mockito/mockito/main/src/javadoc/org/mockito/logo.png" />
 </div>
+
+<div>
+   <img lign="center" alt="Vini-Docker" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+   Docker       
+</div>
   
 ##
   <div>
