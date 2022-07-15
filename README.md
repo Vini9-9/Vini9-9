@@ -59,7 +59,7 @@ Making ideas come true by programming.
 
 <div>
    <img lign="center" alt="Vini-Docker" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-   Docker       
+   Docker and Docker compose       
 </div>
   
 ##
