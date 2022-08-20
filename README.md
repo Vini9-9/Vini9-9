@@ -2,7 +2,7 @@
 
 ⚡ I'm always open to solve a new challenge.
 
-👨‍💻  GBS Associates at IBM <br>
+👨‍💻  Application developer at IBM <br>
 
 🍿 Content Creator at Youtube <b> as [Vini Programando](https://www.youtube.com/channel/UCjxUQX0iuQiw_3M-YHlkZWQ) <br>
 
@@ -21,7 +21,7 @@ Making ideas come true by programming.
 - 📚 Bachelor of Science and Technology & Computer Science - UFABC, 06/2018 - 06/2023.
  
 ## Look my CV
-* [EN](https://github.com/Vini9-9/Vini9-9/blob/main/EN-Vinicius%20Pessoa%20da%20Silva_062022.pdf)
+* [EN](https://github.com/Vini9-9/Vini9-9/blob/main/EN-Vinicius%20Pessoa%20da%20Silva_082022.pdf)
 * [PT-BR](https://github.com/Vini9-9/Vini9-9/blob/main/Vinicius%20Pessoa%20da%20Silva_062022.pdf)
  
 ### ⚡ Technologies:  
