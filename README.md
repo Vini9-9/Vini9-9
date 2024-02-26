@@ -18,7 +18,8 @@ Making ideas come true by programming.
 
 ## About me...
  
-- 📚 Bachelor of Science and Technology & Computer Science - UFABC, 06/2018 - 06/2023.
+- 📚 Bachelor of Science and Technology - UFABC 
+- 📚 Bachelor of Computer Science - UFABC, 12/2024.
  
 ## Look my CV
 * [EN](https://github.com/Vini9-9/Vini9-9/blob/main/EN-Vinicius%20Pessoa%20da%20Silva.pdf)
