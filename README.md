@@ -2,7 +2,7 @@
 
 ⚡ I'm always open to solve a new challenge.
 
-👨‍💻  Fullstack Developer at Connectis <br>
+👨‍💻  Fullstack Developer at CI&T <br>
 
 🍿 Content Creator at Youtube <b> as [Vini Programando](https://www.youtube.com/channel/UCjxUQX0iuQiw_3M-YHlkZWQ) <br>
 
